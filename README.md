@@ -1,7 +1,7 @@
 # IMS
-Inventory Management System For Library Books
+**Inventory Management System For Library Books**
 <br>
-Tasks 
+Tasks:-
 <br>
 Book Management
 <br>
