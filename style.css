@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(135deg, #6a11cb, #b8bec9);
+    color: #333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+    color: #fff !important;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+input.form-control {
+    border-radius: 8px;
+}
+
+button {
+    border-radius: 8px;
+}
